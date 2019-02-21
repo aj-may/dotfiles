@@ -1,0 +1,3 @@
+font-fira-code
+sublime-text
+google-chrome

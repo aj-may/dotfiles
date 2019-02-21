@@ -1,0 +1,16 @@
+azure-cli
+ctop
+curl
+git
+go
+jq
+kubernetes-cli
+node
+openssl
+python
+ruby
+stow
+tmux
+tree
+watch
+zsh

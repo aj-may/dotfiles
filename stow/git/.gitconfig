@@ -1,0 +1,7 @@
+[core]
+	excludesfile = ~/.gitignore
+[user]
+	name = A.J. May
+	email = aj7may@gmail.com
+[url "https://"]
+	insteadOf = git://
